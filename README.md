@@ -18,8 +18,7 @@ obteniendo **0 errores**.
 
 - Enlace al validador: https://validator.w3.org/
 ### Captura de validación
-
-![Resultado de validación W3C](./assets/validacion.png)
+![Resultado de validación W3C](./img/validacion.png)
 
 ## Estructura del repositorio
 
